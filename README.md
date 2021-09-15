@@ -21,13 +21,13 @@ The workspace contains two folders by default, where:
 ## 12 Groovy Beginner Tutorial 12 | Loops in Groovy
 ## 13 Groovy Beginner Tutorial 13 | Exception Handling
 ## 14 Groovy Beginner Tutorial 14 | Strings
-## 15 ▶▶▶▶ Groovy Beginner Tutorial 15 | Methods
+## 15 Groovy Beginner Tutorial 15 | Methods
 ## 16 Groovy Beginner Tutorial 16 | Closures
 ## 17 Groovy Beginner Tutorial 17 | Lists
 ## 18 Groovy Beginner Tutorial 18 | Maps
 ## 19 Groovy Beginner Tutorial 19 | Ranges
 ## 20 Groovy Beginner Tutorial 20 | Input & Output
-## 21 Groovy Beginner Tutorial 21 | How to read files in groovy
+## 21 ▶▶▶▶ Groovy Beginner Tutorial 21 | How to read files in groovy
 ## 22 Groovy Beginner Tutorial 22 | How to write files in Groovy | File IO
 ## 23 Groovy Beginner Tutorial 23 | OOP | Classes & Objects
 ## 24 Groovy Beginner Tutorial 24 | OOP | Example 1
